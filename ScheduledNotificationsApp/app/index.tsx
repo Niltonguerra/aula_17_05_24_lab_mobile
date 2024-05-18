@@ -40,7 +40,7 @@ export default function Index() {
       content: {
         title: "está na hora de sair",
         body: 'vá para a Fatec Mauár',
-        data: { data: 'geo:0,0?q="FATEC Maua"' },
+        data: { uri: 'geo:0,0?q=FATEC Maua' },
       },
       trigger: date,
     });
