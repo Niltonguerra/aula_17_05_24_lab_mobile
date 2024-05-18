@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834677521086",
+    "project_id": "aula-17-05-2024-lab-mob",
+    "storage_bucket": "aula-17-05-2024-lab-mob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834677521086:android:d3c077e2a0b611f67b7cef",
+        "android_client_info": {
+          "package_name": "nilton.dguerra.appnotificacao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGu5XauhSN_LkkLutCEiCYlHG77-7fblQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

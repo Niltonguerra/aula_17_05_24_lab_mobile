@@ -12,6 +12,8 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "package": "nilton.dguerra.appnotificacao",
+    "googleServiceFile":"./google-services.json",
     "ios": {
       "supportsTablet": true
     },
